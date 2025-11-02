@@ -32,11 +32,10 @@ It’s ideal for cybersecurity portfolios or students applying for programs in i
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/encryptor-cli.git
 cd encryptor-cli
 
 
-(Optional) Create a virtual environment:
+ Create a virtual environment:(Optional)
 
 python3 -m venv venv
 source venv/bin/activate
